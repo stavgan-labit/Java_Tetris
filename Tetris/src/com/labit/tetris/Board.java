@@ -1,6 +1,7 @@
 package com.labit.tetris;
 
-// Commit #2
+// Commit #3
+//
 
 import java.awt.BasicStroke;
 import java.awt.Color;
