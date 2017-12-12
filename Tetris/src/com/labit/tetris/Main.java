@@ -16,7 +16,7 @@ public class Main extends JFrame {
 		setResizable(false);
 		
 		add(board);
-		addKeyListener(board);
+		addKeyListener(board);	
 		setVisible(true);
 	}
 	 public static void main(String[] argv) {
